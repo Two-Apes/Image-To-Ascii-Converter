@@ -2,9 +2,11 @@
 A simple Image2Ascii converter
 
 Image Example:
+
 ![alt text](https://github.com/Two-Apes/Image-To-Ascii-Converter/blob/main/Test/Test%20Image.jpg?raw=true)
 
 Output Example:
+
 ![alt text](https://github.com/Two-Apes/Image-To-Ascii-Converter/blob/main/Test/Test%20Image%20Output.png?raw=true)
 
 
